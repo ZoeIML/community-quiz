@@ -1,22 +1,10 @@
-# Fullstack boilerplate
+# community-quiz
 
-To get started:
+A community-based quiz asking for question contributions from participators in order to grow the question base.
 
-```
-git clone https://github.com/dev-academy-challenges/boilerplate-fullstack [your-project-name]
-cd [your-project-name]
-yarn # to install dependencies
-yarn dev # to start the dev server
-```
+#### NB: This repo is not running at the moment - needs troubleshooting! 
 
-You can find the server running on [http://localhost:3000](http://localhost:3000).
-
-This repo includes:
-
-* a single, simple API endpoint (`/api/v1/fruits`)
-* a single React component (`<App />`)
-* a fake database module (`db.js`)
-* an API client module (`apiClient.js`)
-* configuration for Jest and Enzyme (including JSDOM)
-* configuration for server-side debugging in VS Code
-* a single client-side test (`/tests/client/App.test.js`)
+## Getting started:
+- clone the repo
+- `yarn` to install dependencies
+- `yarn dev` to start things up!
