@@ -8,3 +8,6 @@ A community-based quiz asking for question contributions from participators in o
 - clone the repo
 - `yarn` to install dependencies
 - `yarn dev` to start things up!
+
+## First up:
+- troubeshooting!
